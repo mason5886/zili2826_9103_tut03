@@ -1,1 +1,8 @@
 # zili2826_9103_tut03
+## Inspiration
+The inspiration I found from the movie The Matrix is the falling green code, which resembles rain. It is presented as a backdrop to the digital virtual reality era. This strong sci-fi aesthetic conveys deeper visual effects for the film. This inspiration drew me in, and I chose such an animation effect to enhance my visual expression of a sci-fi world.
+## Coding
+To achieve the "Matrix rain" effect from The Matrix, HTML5 Canvas and JavaScript can be combined. First, a <canvas> is created to render the matrix rain, which is the primary 2D drawing element in HTML. Then, JavaScript generates an array of characters, including letters, numbers, or special symbols, simulating the code stream from the movie. By using simple loops (loop functions) and coordinate control, you can simulate the flow of the matrix code rain, providing a highly dynamic and flexible effect. Adjusting the falling speed, font size, and transparency (with fillRect) can further optimize the visual effect.
+
+[Link Text](https://www.youtube.com/watch?v=rpWrtXyEAN0)
+![animageofmatrixrain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Ffileexchange%2F61454-matrix-digital-rain-raining-code-with-a-message-emerging-i&psig=AOvVaw2pztF2aVawrmUSfh8vFoCj&ust=1727420572745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOixhJ-F4IgDFQAAAAAdAAAAABAR)
